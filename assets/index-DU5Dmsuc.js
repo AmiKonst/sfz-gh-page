@@ -1,4 +1,4 @@
-const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Main-Z-_CZVaA.js","assets/Main-DxkVCLmt.css"])))=>i.map(i=>d[i]);
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/Main-DmKVF36m.js","assets/Main-DxkVCLmt.css"])))=>i.map(i=>d[i]);
 true              &&(function polyfill() {
   const relList = document.createElement("link").relList;
   if (relList && relList.supports && relList.supports("modulepreload")) {
@@ -24846,7 +24846,7 @@ const routes = [
   {
     path: "/",
     name: "/",
-    component: () => __vitePreload(() => import('./Main-Z-_CZVaA.js'),true              ?__vite__mapDeps([0,1]):void 0),
+    component: () => __vitePreload(() => import('./Main-DmKVF36m.js'),true              ?__vite__mapDeps([0,1]):void 0),
     abort: []
   }
 ];
@@ -45489,7 +45489,7 @@ return (_ctx, _cache) => {
 };
 
 {
-  document.title = "Bilbo Apps | Next-Gen Music App Platform";
+  document.title = "SFZ Sound Libraries — Bilbo Acoustic Instruments";
 }
 const app = createApp(_sfc_main);
 app.use(router);
@@ -45521,4 +45521,4 @@ app.config.globalProperties.$message = message;
 app.mount("#bapps-app");
 
 export { Fragment as F, _export_sfc as _, createBaseVNode as a, unref as b, createElementBlock as c, createVNode as d, openBlock as o, renderList as r, toDisplayString$1 as t, useI18n as u };
-//# sourceMappingURL=index-XmZSkhvB.js.map
+//# sourceMappingURL=index-DU5Dmsuc.js.map
