@@ -9,7 +9,7 @@
             "author": "Alexander Holm",
             "description": "One of the most famous open-source concert grand pianos. Sample-mapped from a Yamaha C5 with 16 velocity layers per note, string resonance, and pedal noise. Delivers a rich, professional studio sound.",
             "source": "https://github.com/sfzinstruments/SplendidGrandPiano",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/splendid-grand-piano/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/splendid-grand-piano/cover.png"
         },
         {
             "id": "maestro-concert-grand-piano",
@@ -20,7 +20,7 @@
             "author": "Mats Helgesson",
             "description": "A classical Yamaha CF-3 concert grand piano from the early 1990s. Features 5 velocity layers recorded via premium Neumann KM84 microphones, providing a deep, voluminous, and highly resonant sound stage.",
             "source": "https://github.com/sfzinstruments/MatsHelgesson.MaestroConcertGrandPiano",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/maestro-concert-grand-piano/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/maestro-concert-grand-piano/cover.png"
         },
         {
             "id": "headroom-piano",
@@ -31,7 +31,7 @@
             "author": "Bengt Nilsson",
             "description": "A Yamaha C3 grand piano offering a versatile sound signature. It comes with 5 velocity layers and dual-microphone positions (Close Mics and an ambient Decca Tree configuration) adjustable directly via SFZ controls.",
             "source": "https://github.com/sfzinstruments/MatsHelgesson.MaestroConcertGrandPiano",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/headroom-piano/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/headroom-piano/cover.png"
         },
         {
             "id": "old-piano-fb",
@@ -42,7 +42,7 @@
             "author": "Roberto Gordo Saez",
             "description": "An authentic, vintage Francis Bacon upright piano recorded from the player's perspective. It has a charming honky-tonk character that fits perfectly in lo-fi, indie, jazz, and retro soundtrack productions.",
             "source": "https://github.com/freepats/old-piano-FB/tree/main",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/old-piano-fb/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/old-piano-fb/cover.png"
         },
 
         {
@@ -54,7 +54,7 @@
             "author": "Versilian Studios LLC",
             "description": "A legacy mapping of the grand piano K sample set from the Versilian Community collection, preserving vintage configuration presets.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "grand-piano-k",
@@ -65,7 +65,7 @@
             "author": "Versilian Studios LLC",
             "description": "An authentic acoustic grand piano instrument featuring multi-velocity sampling and natural acoustic decays.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "grand-piano-s-model-b-1895",
@@ -76,7 +76,7 @@
             "author": "Versilian Studios LLC",
             "description": "A historic 1895 Steinway Model B grand piano, delivering a rich antique tone and unique mechanical resonance.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-english-keyswitch",
@@ -87,7 +87,7 @@
             "author": "Versilian Studios LLC",
             "description": "An English harpsichord patch featuring standard key-switching to dynamically toggle between various registers and playing styles.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-english-lute",
@@ -98,7 +98,7 @@
             "author": "Versilian Studios LLC",
             "description": "An English harpsichord configured to replicate the muted, delicate timbre of the traditional lute stop register.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-english-normal",
@@ -109,7 +109,7 @@
             "author": "Versilian Studios LLC",
             "description": "The standard open-source English harpsichord patch capturing the bright, plucked harmonic definition of the full instrument.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-flemish-4",
@@ -120,7 +120,7 @@
             "author": "Versilian Studios LLC",
             "description": "A Flemish harpsichord patch focused exclusively on the 4-foot register for bright, octave-higher harmonic content.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-flemish-8",
@@ -131,7 +131,7 @@
             "author": "Versilian Studios LLC",
             "description": "A Flemish harpsichord patch mapped using the fundamental 8-foot register to provide standard baroque body and pitch definition.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-flemish-full",
@@ -142,7 +142,7 @@
             "author": "Versilian Studios LLC",
             "description": "The complete full-register mapping of the Flemish harpsichord for highly complex baroque music compositions.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-flemish-keyswitch",
@@ -153,7 +153,7 @@
             "author": "Versilian Studios LLC",
             "description": "A versatile Flemish harpsichord version allowing live articulation adjustments via dedicated MIDI keyswitches.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-french",
@@ -164,7 +164,7 @@
             "author": "Versilian Studios LLC",
             "description": "A deeply resonant and classical French style harpsichord capturing the traditional plucked string tone architecture.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-italian",
@@ -175,7 +175,7 @@
             "author": "Versilian Studios LLC",
             "description": "An Italian harpsichord model delivering a snappy attack and rapid decays, ideal for energetic continuous basso continuo lines.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "harpsichord-unk",
@@ -186,7 +186,7 @@
             "author": "Versilian Studios LLC",
             "description": "An alternative custom harpsichord model with unique mechanical and pluck characteristics.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "upright-piano-knight",
@@ -197,7 +197,7 @@
             "author": "Versilian Studios LLC",
             "description": "An intimate Knight upright piano patch, optimized for cozy, warm, and highly expressive acoustic tracking.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         },
         {
             "id": "upright-piano-y",
@@ -208,7 +208,7 @@
             "author": "Versilian Studios LLC",
             "description": "A vertical studio upright piano with a precise note attack and detailed release samples for realistic live performance tracking.",
             "source": "https://versilian-studios.com/",
-            "image": "https://sfz.bilbomusic.com/instruments/instruments/vcsl-keys/cover.png"
+            "image": "https://sfz.bilbomusic.com/instruments/vcsl-keys/cover.png"
         }
     ]
 }
